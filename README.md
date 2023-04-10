@@ -52,6 +52,6 @@ class CPUactivity
 
 
 ## Output:
-![output](e1.png)
+![output](e1.jpeg)
 ## Result:
 Thus, the C# program to create a sample CPU usage on a network with 4 nodes using a jagged array is executed successfully
